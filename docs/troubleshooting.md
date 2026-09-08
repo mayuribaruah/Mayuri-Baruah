@@ -12,4 +12,4 @@ Troubleshooting is the process of finding and eliminating the cause of a problem
    
 ## Eliminating possible causes
 Narrow the scope of your problem by eliminating components that are not causing the problem. By using a process of elimination, you can simplify your problem and avoid wasting time in areas that are not culprits. Consult the information in this product and other available resources to help you with your elimination process.
-
+implemented changes
